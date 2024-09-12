@@ -2,4 +2,8 @@ body{
     background-color: crimson;
     color:white;
     font-family: "Manrope", system-ui;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
 }
