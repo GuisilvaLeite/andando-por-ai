@@ -14,3 +14,11 @@ button{
     color: white;
     font-family: "Manrope", system-ui;
 }
+
+.passo{
+    display: none;
+}
+
+.passo.ativo{
+    display: block;
+}
